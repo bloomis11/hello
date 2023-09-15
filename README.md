@@ -1,5 +1,5 @@
 Here are ways to say hello in the 10 most widely spoken languages in the world:
-
+Dutch: Hallo
 1. **Mandarin Chinese**: 你好 (Nǐ hǎo)
 2. **Spanish**: Hola
 3. **English**: Hello
